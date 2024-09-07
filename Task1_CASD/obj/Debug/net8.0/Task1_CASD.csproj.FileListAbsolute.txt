@@ -1,0 +1,14 @@
+C:\Users\C999OX193rus\Desktop\Учеба\2 курс\Конструирование алгоритмов и структур данных\Проекты\Task1_CASD\obj\Debug\net8.0\Task1_CASD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C999OX193rus\Desktop\Учеба\2 курс\Конструирование алгоритмов и структур данных\Проекты\Task1_CASD\obj\Debug\net8.0\Task1_CASD.AssemblyInfoInputs.cache
+C:\Users\C999OX193rus\Desktop\Учеба\2 курс\Конструирование алгоритмов и структур данных\Проекты\Task1_CASD\obj\Debug\net8.0\Task1_CASD.AssemblyInfo.cs
+C:\Users\C999OX193rus\Desktop\Учеба\2 курс\Конструирование алгоритмов и структур данных\Проекты\Task1_CASD\obj\Debug\net8.0\Task1_CASD.csproj.CoreCompileInputs.cache
+C:\Users\C999OX193rus\Desktop\Учеба\2 курс\Конструирование алгоритмов и структур данных\Проекты\Task1_CASD\bin\Debug\net8.0\Task1_CASD.exe
+C:\Users\C999OX193rus\Desktop\Учеба\2 курс\Конструирование алгоритмов и структур данных\Проекты\Task1_CASD\bin\Debug\net8.0\Task1_CASD.deps.json
+C:\Users\C999OX193rus\Desktop\Учеба\2 курс\Конструирование алгоритмов и структур данных\Проекты\Task1_CASD\bin\Debug\net8.0\Task1_CASD.runtimeconfig.json
+C:\Users\C999OX193rus\Desktop\Учеба\2 курс\Конструирование алгоритмов и структур данных\Проекты\Task1_CASD\bin\Debug\net8.0\Task1_CASD.dll
+C:\Users\C999OX193rus\Desktop\Учеба\2 курс\Конструирование алгоритмов и структур данных\Проекты\Task1_CASD\bin\Debug\net8.0\Task1_CASD.pdb
+C:\Users\C999OX193rus\Desktop\Учеба\2 курс\Конструирование алгоритмов и структур данных\Проекты\Task1_CASD\obj\Debug\net8.0\Task1_CASD.dll
+C:\Users\C999OX193rus\Desktop\Учеба\2 курс\Конструирование алгоритмов и структур данных\Проекты\Task1_CASD\obj\Debug\net8.0\refint\Task1_CASD.dll
+C:\Users\C999OX193rus\Desktop\Учеба\2 курс\Конструирование алгоритмов и структур данных\Проекты\Task1_CASD\obj\Debug\net8.0\Task1_CASD.pdb
+C:\Users\C999OX193rus\Desktop\Учеба\2 курс\Конструирование алгоритмов и структур данных\Проекты\Task1_CASD\obj\Debug\net8.0\Task1_CASD.genruntimeconfig.cache
+C:\Users\C999OX193rus\Desktop\Учеба\2 курс\Конструирование алгоритмов и структур данных\Проекты\Task1_CASD\obj\Debug\net8.0\ref\Task1_CASD.dll
