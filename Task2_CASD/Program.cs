@@ -54,11 +54,11 @@ public struct Complex
         if (x.Im >= 0) Console.WriteLine($"{x.Re} + {x.Im}i");
         else Console.WriteLine($"{x.Re} - {Math.Abs(x.Im)}i");
     }
-    public static void Print_Re(Complex x)
+    public static void PrintRe(Complex x)
     {
         Console.WriteLine(x.Re);
     }
-    public static void Print_Im(Complex x)
+    public static void PrintIm(Complex x)
     {
         Console.WriteLine($"{x.Im}i");
     }
@@ -69,8 +69,8 @@ class Programm
     static void Main()
     {
         bool flag = true;
-        Complex number_1 = new Complex(0, 0);
-        Complex number_2 = new Complex(0, 0);
+        Complex number1 = new Complex(0, 0);
+        Complex number2 = new Complex(0, 0);
         while (flag)
         {
             Console.WriteLine("Enter 0 for create complex number.");
@@ -90,65 +90,65 @@ class Programm
             {
                 case '0':
                     Console.WriteLine("Enter a real part of complex number.");
-                    double re_1 = Convert.ToDouble(Console.ReadLine());
+                    double re1 = Convert.ToDouble(Console.ReadLine());
                     Console.WriteLine("Enter a imaginary part of complex number.");
-                    double im_1 = Convert.ToDouble(Console.ReadLine());
-                    number_1 = new Complex(re_1, im_1);
+                    double im1 = Convert.ToDouble(Console.ReadLine());
+                    number1 = new Complex(re1, im1);
                     continue;
                 case '1':
                     Console.WriteLine("Enter a real part of second complex number.");
-                    double re_2 = Convert.ToDouble(Console.ReadLine());
+                    double re2 = Convert.ToDouble(Console.ReadLine());
                     Console.WriteLine("Enter a imaginary part of second complex number.");
-                    double im_2 = Convert.ToDouble(Console.ReadLine());
-                    number_2 = new Complex(re_2, im_2);
-                    Complex sum = number_1 + number_2;
+                    double im2 = Convert.ToDouble(Console.ReadLine());
+                    number2 = new Complex(re2, im2);
+                    Complex sum = number1 + number2;
                     Complex.Print(sum);
                     continue;
                 case '2':
                     Console.WriteLine("Enter a real part of second complex number.");
-                    re_2 = Convert.ToDouble(Console.ReadLine());
+                    re2 = Convert.ToDouble(Console.ReadLine());
                     Console.WriteLine("Enter a imaginary part of second complex number.");
-                    im_2 = Convert.ToDouble(Console.ReadLine());
-                    number_2 = new Complex(re_2, im_2);
-                    Complex difference = number_1 - number_2;
+                    im2 = Convert.ToDouble(Console.ReadLine());
+                    number2 = new Complex(re2, im2);
+                    Complex difference = number1 - number2;
                     Complex.Print(difference);
                     continue;
                 case '3':
                     Console.WriteLine("Enter a real part of second complex number.");
-                    re_2 = Convert.ToDouble(Console.ReadLine());
+                    re2 = Convert.ToDouble(Console.ReadLine());
                     Console.WriteLine("Enter a imaginary part of second complex number.");
-                    im_2 = Convert.ToDouble(Console.ReadLine());
-                    number_2 = new Complex(re_2, im_2);
-                    Complex product = number_1 - number_2;
+                    im2 = Convert.ToDouble(Console.ReadLine());
+                    number2 = new Complex(re2, im2);
+                    Complex product = number1 * number2;
                     Complex.Print(product);
                     continue;
                 case '4':
                     Console.WriteLine("Enter a real part of second complex number.");
-                    re_2 = Convert.ToDouble(Console.ReadLine());
+                    re2 = Convert.ToDouble(Console.ReadLine());
                     Console.WriteLine("Enter a imaginary part of second complex number.");
-                    im_2 = Convert.ToDouble(Console.ReadLine());
-                    number_2 = new Complex(re_2, im_2);
-                    Complex division = number_1 - number_2;
+                    im2 = Convert.ToDouble(Console.ReadLine());
+                    number2 = new Complex(re2, im2);
+                    Complex division = number1 / number2;
                     Complex.Print(division);
                     continue;
                 case '5':
-                    double absolut = Complex.ComplexModule(number_1);
+                    double absolut = Complex.ComplexModule(number1);
                     Console.WriteLine(absolut);
                     continue;
                 case '6':
-                    double argument = Complex.ComplexArgument(number_1);
+                    double argument = Complex.ComplexArgument(number1);
                     Console.WriteLine(argument);
                     continue;
                 case '7':
-                    Complex.Print_Re(number_1); 
+                    Complex.PrintRe(number1); 
                     Console.Write("+");
-                    Complex.Print_Im(number_2);
+                    Complex.PrintIm(number2);
                     continue;
                 case '8':
-                    Complex.Print_Re(number_1);
+                    Complex.PrintRe(number1);
                     continue;
                 case '9':
-                    Complex.Print_Im(number_2);
+                    Complex.PrintIm(number2);
                     continue;
                 case 'q':
                     flag = false;
