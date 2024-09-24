@@ -2,8 +2,8 @@
 
 public class MyArrayList<T>
 {
-    public int size { get; set; }
-    T[] elementData { get; set; }
+    public int size;
+    T[] elementData;
 
     // 1
     public MyArrayList()
