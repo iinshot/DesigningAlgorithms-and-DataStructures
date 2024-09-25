@@ -1,0 +1,6 @@
+C:\Users\C999OX193rus\Desktop\Учеба\2 курс\Конструирование алгоритмов и структур данных\Проекты\Task05_KASD\MyArrayLib\bin\Debug\MyArrayLib.pdb
+C:\Users\C999OX193rus\Desktop\Учеба\2 курс\Конструирование алгоритмов и структур данных\Проекты\Task05_KASD\MyArrayLib\obj\Debug\MyArrayLib.csproj.AssemblyReference.cache
+C:\Users\C999OX193rus\Desktop\Учеба\2 курс\Конструирование алгоритмов и структур данных\Проекты\Task05_KASD\MyArrayLib\obj\Debug\MyArrayLib.csproj.CoreCompileInputs.cache
+C:\Users\C999OX193rus\Desktop\Учеба\2 курс\Конструирование алгоритмов и структур данных\Проекты\Task05_KASD\MyArrayLib\obj\Debug\MyArrayLib.dll
+C:\Users\C999OX193rus\Desktop\Учеба\2 курс\Конструирование алгоритмов и структур данных\Проекты\Task05_KASD\MyArrayLib\obj\Debug\MyArrayLib.pdb
+C:\Users\C999OX193rus\Desktop\Учеба\2 курс\Конструирование алгоритмов и структур данных\Проекты\Task05_KASD\MyArrayLib\obj\Debug\MyArrayLib.csproj.Up2Date
