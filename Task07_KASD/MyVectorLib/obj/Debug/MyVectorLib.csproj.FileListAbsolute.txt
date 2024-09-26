@@ -1,0 +1,6 @@
+C:\Users\C999OX193rus\Desktop\Учеба\2 курс\Конструирование алгоритмов и структур данных\Проекты\Task07_KASD\MyVectorLib\bin\Debug\MyVectorLib.dll
+C:\Users\C999OX193rus\Desktop\Учеба\2 курс\Конструирование алгоритмов и структур данных\Проекты\Task07_KASD\MyVectorLib\bin\Debug\MyVectorLib.pdb
+C:\Users\C999OX193rus\Desktop\Учеба\2 курс\Конструирование алгоритмов и структур данных\Проекты\Task07_KASD\MyVectorLib\obj\Debug\MyVectorLib.csproj.AssemblyReference.cache
+C:\Users\C999OX193rus\Desktop\Учеба\2 курс\Конструирование алгоритмов и структур данных\Проекты\Task07_KASD\MyVectorLib\obj\Debug\MyVectorLib.csproj.CoreCompileInputs.cache
+C:\Users\C999OX193rus\Desktop\Учеба\2 курс\Конструирование алгоритмов и структур данных\Проекты\Task07_KASD\MyVectorLib\obj\Debug\MyVectorLib.dll
+C:\Users\C999OX193rus\Desktop\Учеба\2 курс\Конструирование алгоритмов и структур данных\Проекты\Task07_KASD\MyVectorLib\obj\Debug\MyVectorLib.pdb
