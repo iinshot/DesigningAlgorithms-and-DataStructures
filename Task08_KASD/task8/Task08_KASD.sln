@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task08_KASD", "Task08_KASD.csproj", "{399AE8A9-1856-4F37-8A6F-24AEE13A0FD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyVectorLib", "..\..\Task07_KASD\MyVectorLib\MyVectorLib.csproj", "{68301FCC-61B0-4699-8042-E9882B05A043}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{399AE8A9-1856-4F37-8A6F-24AEE13A0FD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{399AE8A9-1856-4F37-8A6F-24AEE13A0FD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{399AE8A9-1856-4F37-8A6F-24AEE13A0FD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{399AE8A9-1856-4F37-8A6F-24AEE13A0FD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68301FCC-61B0-4699-8042-E9882B05A043}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68301FCC-61B0-4699-8042-E9882B05A043}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68301FCC-61B0-4699-8042-E9882B05A043}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68301FCC-61B0-4699-8042-E9882B05A043}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4AE5E176-F906-48FD-BC42-A4168C2FE96C}
+	EndGlobalSection
+EndGlobal
