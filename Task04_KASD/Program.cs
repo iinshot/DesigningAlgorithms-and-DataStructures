@@ -2,7 +2,7 @@
 
 public class MyArrayList<T>
 {
-    public int size;
+    private int size;
     T[] elementData;
 
     // 1
