@@ -2,8 +2,8 @@
 
 public class MyVector<T>
 {
-    public int elementCount;
-    public int capacityIncrement;
+    private int elementCount;
+    private int capacityIncrement;
     T[] elementData;
     
     // 1
