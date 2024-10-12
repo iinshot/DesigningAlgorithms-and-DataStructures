@@ -1,0 +1,6 @@
+C:\Users\C999OX193rus\Desktop\Учеба\2 курс\Конструирование алгоритмов и структур данных\Проекты\MyArrayLib\bin\Debug\MyArrayLib.dll
+C:\Users\C999OX193rus\Desktop\Учеба\2 курс\Конструирование алгоритмов и структур данных\Проекты\MyArrayLib\bin\Debug\MyArrayLib.pdb
+C:\Users\C999OX193rus\Desktop\Учеба\2 курс\Конструирование алгоритмов и структур данных\Проекты\MyArrayLib\obj\Debug\MyArrayLib.csproj.AssemblyReference.cache
+C:\Users\C999OX193rus\Desktop\Учеба\2 курс\Конструирование алгоритмов и структур данных\Проекты\MyArrayLib\obj\Debug\MyArrayLib.csproj.CoreCompileInputs.cache
+C:\Users\C999OX193rus\Desktop\Учеба\2 курс\Конструирование алгоритмов и структур данных\Проекты\MyArrayLib\obj\Debug\MyArrayLib.dll
+C:\Users\C999OX193rus\Desktop\Учеба\2 курс\Конструирование алгоритмов и структур данных\Проекты\MyArrayLib\obj\Debug\MyArrayLib.pdb
