@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "task9": {
+      "commandName": "Project",
+      "commandLineArgs": "sin(x)\r\nx = 3.14"
+    }
+  }
+}
