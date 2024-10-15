@@ -1,0 +1,87 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\C999OX193rus\\Desktop\\Учеба\\2 курс\\Конструирование алгоритмов и структур данных\\Проекты\\Task11_KASD\\task11\\task11.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\C999OX193rus\\Desktop\\Учеба\\2 курс\\Конструирование алгоритмов и структур данных\\Проекты\\Task11_KASD\\HeapLib\\HeapLib.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\C999OX193rus\\Desktop\\Учеба\\2 курс\\Конструирование алгоритмов и структур данных\\Проекты\\Task11_KASD\\HeapLib\\HeapLib.csproj",
+        "projectName": "HeapLib",
+        "projectPath": "C:\\Users\\C999OX193rus\\Desktop\\Учеба\\2 курс\\Конструирование алгоритмов и структур данных\\Проекты\\Task11_KASD\\HeapLib\\HeapLib.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\Users\\C999OX193rus\\Desktop\\Учеба\\2 курс\\Конструирование алгоритмов и структур данных\\Проекты\\Task11_KASD\\task11\\task11.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\C999OX193rus\\Desktop\\Учеба\\2 курс\\Конструирование алгоритмов и структур данных\\Проекты\\Task11_KASD\\task11\\task11.csproj",
+        "projectName": "task11",
+        "projectPath": "C:\\Users\\C999OX193rus\\Desktop\\Учеба\\2 курс\\Конструирование алгоритмов и структур данных\\Проекты\\Task11_KASD\\task11\\task11.csproj",
+        "packagesPath": "C:\\Users\\C999OX193rus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\C999OX193rus\\Desktop\\Учеба\\2 курс\\Конструирование алгоритмов и структур данных\\Проекты\\Task11_KASD\\task11\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\C999OX193rus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\C999OX193rus\\Desktop\\Учеба\\2 курс\\Конструирование алгоритмов и структур данных\\Проекты\\Task11_KASD\\HeapLib\\HeapLib.csproj": {
+                "projectPath": "C:\\Users\\C999OX193rus\\Desktop\\Учеба\\2 курс\\Конструирование алгоритмов и структур данных\\Проекты\\Task11_KASD\\HeapLib\\HeapLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
