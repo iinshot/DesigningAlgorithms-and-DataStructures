@@ -1,7 +1,7 @@
 ﻿using MyArrayLib;
 public class Heap<T> where T : IComparable<T>
 {
-    public MyArrayList<T> heap = new MyArrayList<T>(10);
+    private MyArrayList<T> heap = new MyArrayList<T>(10);
     private int length;
 
     // for swapping two values (helping method)
