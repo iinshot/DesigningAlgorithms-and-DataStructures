@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "task11/1.0.0": {
+        "dependencies": {
+          "HeapLib": "1.0.0"
+        },
+        "runtime": {
+          "task11.dll": {}
+        }
+      },
+      "HeapLib/1.0.0": {
+        "runtime": {
+          "HeapLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "task11/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HeapLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
