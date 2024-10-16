@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "task12/1.0.0": {
+        "dependencies": {
+          "QueueLib": "1.0.0"
+        },
+        "runtime": {
+          "task12.dll": {}
+        }
+      },
+      "QueueLib/1.0.0": {
+        "runtime": {
+          "QueueLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "task12/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "QueueLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
