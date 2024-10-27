@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "task15/1.0.0": {
+        "dependencies": {
+          "MyDequeLib": "1.0.0"
+        },
+        "runtime": {
+          "task15.dll": {}
+        }
+      },
+      "MyDequeLib/1.0.0": {
+        "runtime": {
+          "MyDequeLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "task15/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyDequeLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
