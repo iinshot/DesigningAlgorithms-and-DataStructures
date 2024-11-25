@@ -1,0 +1,5 @@
+int a = 18;
+double b = 45.867;
+int c = -563;
+int ernest = 23232;
+float blin = 0.876662;
