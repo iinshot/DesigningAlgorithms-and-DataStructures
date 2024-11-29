@@ -1,0 +1,120 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Task18_KASD/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Task18_KASD.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Task18_KASD.dll": {}
+        }
+      },
+      "Task23_KASD/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Task18_KASD": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Task23_KASD.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Task23_KASD.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task18_KASD/1.0.0": {
+      "type": "project",
+      "path": "../Task18_KASD/Task18_KASD.csproj",
+      "msbuildProject": "../Task18_KASD/Task18_KASD.csproj"
+    },
+    "Task23_KASD/1.0.0": {
+      "type": "project",
+      "path": "../Task23_KASD/Task23_KASD.csproj",
+      "msbuildProject": "../Task23_KASD/Task23_KASD.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "Task23_KASD >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\C999OX193rus\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\C999OX193rus\\Desktop\\Учеба\\2 курс\\Конструирование алгоритмов и структур данных\\Проекты\\Task25_KASD\\Task25_KASD.csproj",
+      "projectName": "Task25_KASD",
+      "projectPath": "C:\\Users\\C999OX193rus\\Desktop\\Учеба\\2 курс\\Конструирование алгоритмов и структур данных\\Проекты\\Task25_KASD\\Task25_KASD.csproj",
+      "packagesPath": "C:\\Users\\C999OX193rus\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\C999OX193rus\\Desktop\\Учеба\\2 курс\\Конструирование алгоритмов и структур данных\\Проекты\\Task25_KASD\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\C999OX193rus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\C999OX193rus\\Desktop\\Учеба\\2 курс\\Конструирование алгоритмов и структур данных\\Проекты\\Task23_KASD\\Task23_KASD.csproj": {
+              "projectPath": "C:\\Users\\C999OX193rus\\Desktop\\Учеба\\2 курс\\Конструирование алгоритмов и структур данных\\Проекты\\Task23_KASD\\Task23_KASD.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "all"
+      },
+      "SdkAnalysisLevel": "9.0.100"
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
