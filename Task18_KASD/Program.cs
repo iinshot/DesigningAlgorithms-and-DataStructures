@@ -202,7 +202,7 @@
         // 12
         public void Remove(Key key)
         {
-            int index = key.GetHashCode();
+            int index = GetHashCode(key);
             Entry step = table[index];
             if (step == null)
                 return;
