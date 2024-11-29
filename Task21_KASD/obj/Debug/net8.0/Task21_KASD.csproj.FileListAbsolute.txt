@@ -1,0 +1,14 @@
+C:\Users\C999OX193rus\Desktop\Учеба\2 курс\Конструирование алгоритмов и структур данных\Проекты\Task21_KASD\obj\Debug\net8.0\Task21_KASD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C999OX193rus\Desktop\Учеба\2 курс\Конструирование алгоритмов и структур данных\Проекты\Task21_KASD\obj\Debug\net8.0\Task21_KASD.AssemblyInfoInputs.cache
+C:\Users\C999OX193rus\Desktop\Учеба\2 курс\Конструирование алгоритмов и структур данных\Проекты\Task21_KASD\obj\Debug\net8.0\Task21_KASD.AssemblyInfo.cs
+C:\Users\C999OX193rus\Desktop\Учеба\2 курс\Конструирование алгоритмов и структур данных\Проекты\Task21_KASD\obj\Debug\net8.0\Task21_KASD.csproj.CoreCompileInputs.cache
+C:\Users\C999OX193rus\Desktop\Учеба\2 курс\Конструирование алгоритмов и структур данных\Проекты\Task21_KASD\bin\Debug\net8.0\Task21_KASD.exe
+C:\Users\C999OX193rus\Desktop\Учеба\2 курс\Конструирование алгоритмов и структур данных\Проекты\Task21_KASD\bin\Debug\net8.0\Task21_KASD.deps.json
+C:\Users\C999OX193rus\Desktop\Учеба\2 курс\Конструирование алгоритмов и структур данных\Проекты\Task21_KASD\bin\Debug\net8.0\Task21_KASD.runtimeconfig.json
+C:\Users\C999OX193rus\Desktop\Учеба\2 курс\Конструирование алгоритмов и структур данных\Проекты\Task21_KASD\bin\Debug\net8.0\Task21_KASD.dll
+C:\Users\C999OX193rus\Desktop\Учеба\2 курс\Конструирование алгоритмов и структур данных\Проекты\Task21_KASD\bin\Debug\net8.0\Task21_KASD.pdb
+C:\Users\C999OX193rus\Desktop\Учеба\2 курс\Конструирование алгоритмов и структур данных\Проекты\Task21_KASD\obj\Debug\net8.0\Task21_KASD.dll
+C:\Users\C999OX193rus\Desktop\Учеба\2 курс\Конструирование алгоритмов и структур данных\Проекты\Task21_KASD\obj\Debug\net8.0\refint\Task21_KASD.dll
+C:\Users\C999OX193rus\Desktop\Учеба\2 курс\Конструирование алгоритмов и структур данных\Проекты\Task21_KASD\obj\Debug\net8.0\Task21_KASD.pdb
+C:\Users\C999OX193rus\Desktop\Учеба\2 курс\Конструирование алгоритмов и структур данных\Проекты\Task21_KASD\obj\Debug\net8.0\Task21_KASD.genruntimeconfig.cache
+C:\Users\C999OX193rus\Desktop\Учеба\2 курс\Конструирование алгоритмов и структур данных\Проекты\Task21_KASD\obj\Debug\net8.0\ref\Task21_KASD.dll
