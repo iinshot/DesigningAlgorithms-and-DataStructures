@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35506.116 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task23_KASD", "Task23_KASD.csproj", "{C57CAA62-AEF0-4A04-85B9-5C4673A2AC78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task18_KASD", "..\Task18_KASD\Task18_KASD.csproj", "{F317518E-CE5B-4C1A-95B2-817CFF71C085}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C57CAA62-AEF0-4A04-85B9-5C4673A2AC78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C57CAA62-AEF0-4A04-85B9-5C4673A2AC78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C57CAA62-AEF0-4A04-85B9-5C4673A2AC78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C57CAA62-AEF0-4A04-85B9-5C4673A2AC78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F317518E-CE5B-4C1A-95B2-817CFF71C085}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F317518E-CE5B-4C1A-95B2-817CFF71C085}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F317518E-CE5B-4C1A-95B2-817CFF71C085}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F317518E-CE5B-4C1A-95B2-817CFF71C085}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
