@@ -1,0 +1,12 @@
+C:\Users\C999OX193rus\Desktop\Учеба\2 курс\Конструирование алгоритмов и структур данных\Проекты\Task27_KASD\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+C:\Users\C999OX193rus\Desktop\Учеба\2 курс\Конструирование алгоритмов и структур данных\Проекты\Task27_KASD\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\C999OX193rus\Desktop\Учеба\2 курс\Конструирование алгоритмов и структур данных\Проекты\Task27_KASD\Library\bin\Debug\Library.dll
+C:\Users\C999OX193rus\Desktop\Учеба\2 курс\Конструирование алгоритмов и структур данных\Проекты\Task27_KASD\Library\bin\Debug\Library.pdb
+C:\Users\C999OX193rus\Desktop\Учеба\2 курс\Конструирование алгоритмов и структур данных\Проекты\Task27_KASD\Library\obj\Debug\Library.dll
+C:\Users\C999OX193rus\Desktop\Учеба\2 курс\Конструирование алгоритмов и структур данных\Проекты\Task27_KASD\Library\obj\Debug\Library.pdb
+C:\Users\C999OX193rus\Desktop\Учеба\2 курс\Конструирование алгоритмов и структур данных\Проекты\Task28_KASD\Library\bin\Debug\Library.dll
+C:\Users\C999OX193rus\Desktop\Учеба\2 курс\Конструирование алгоритмов и структур данных\Проекты\Task28_KASD\Library\bin\Debug\Library.pdb
+C:\Users\C999OX193rus\Desktop\Учеба\2 курс\Конструирование алгоритмов и структур данных\Проекты\Task28_KASD\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+C:\Users\C999OX193rus\Desktop\Учеба\2 курс\Конструирование алгоритмов и структур данных\Проекты\Task28_KASD\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\C999OX193rus\Desktop\Учеба\2 курс\Конструирование алгоритмов и структур данных\Проекты\Task28_KASD\Library\obj\Debug\Library.dll
+C:\Users\C999OX193rus\Desktop\Учеба\2 курс\Конструирование алгоритмов и структур данных\Проекты\Task28_KASD\Library\obj\Debug\Library.pdb
